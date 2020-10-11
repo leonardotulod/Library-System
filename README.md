@@ -1,5 +1,5 @@
 # Library-System
-Program allows for storage and maintence of more than 100,000 books and you can search, add, delete, and import and export individual books and book databases. To run the program, download all the code into one directory. Have the book database you want to import in the following form. This is optional, you could just add all your books manually. 
+Program allows for storage and maintence of more than 100,000 books and you can search, add, delete, and import and export individual books and book databases. To run the program, download all the code into one directory. Have the book database you want to import in the following form. This is optional, you could just add all your books manually. An example of an appropiate would be the "sample_input.txt" file. 
 
 
 Import and Export Form: (Typically .txt files)

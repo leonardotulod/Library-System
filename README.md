@@ -6,9 +6,13 @@ Import and Export Form: (Typically .txt files)
 
 
 Title
+
 Author
+
 ISBN
+
 Year Published
+
 Edition
 
 The program will automatically count how many books you have in your database. To compile the code, type the "make" command to compile your code. The makefile should run all the necessary code. The to run the code use the "./run-lib" command and you should be all set. Thanks for checking out my library program!

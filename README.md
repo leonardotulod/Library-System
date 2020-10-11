@@ -15,4 +15,4 @@ Year Published
 
 Edition
 
-The program will automatically count how many books you have in your database. To compile the code, type the "make" command to compile your code. The makefile should run all the necessary code. The to run the code use the "./run-lib" command and you should be all set. Thanks for checking out my library program!
+The program will automatically count how many books you have in your database. To compile the code, type the "make" command to compile your code. The makefile should run all the necessary code. To run the code, use the "./run-lib" command and you should be all set. Use the "make clean" command if you want to clear your output files. Thanks for checking out my library program!
